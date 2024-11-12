@@ -1,5 +1,7 @@
 # Vehicle Price Prediction using Machine Learning
 
+![Machine Learning Banner](Images/Machine_Learning_Image.jfif)
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Project Notebook](#Project-Notebook)
