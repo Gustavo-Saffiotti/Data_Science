@@ -13,6 +13,15 @@
 
 This project aims to build a machine learning model to predict the average price of vehicles based on various features such as engine size, fuel type, brand, and other vehicle characteristics. The model can be applied to predict the price of a vehicle, which could potentially be used in applications like insurance pricing and market analysis.
 
+## Project Notebook
+
+For a detailed walkthrough of the entire project development, including data preprocessing, exploratory data analysis (EDA), model training, and evaluation, please refer to the Jupyter Notebook:
+
+- [Project Development Notebook](Vehicle_price_prediction.ipynb)
+
+This notebook provides a step-by-step explanation of each part of the project, along with code and visualizations.
+
+
 ### Key Features of the Project:
 - **Dataset Acquisition**: The data is sourced from FIPE (Fundação Instituto de Pesquisas Econômicas), a prominent vehicle price reference in Brazil.
 - **Data Preprocessing**: Cleaning and transforming the dataset to handle missing values, categorical encoding, and feature scaling.
