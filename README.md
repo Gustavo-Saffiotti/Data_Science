@@ -80,7 +80,7 @@ Some possible areas for future work include:
 
 ## Author
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://www.linkedin.com/in/gustavo-maldonado-saffiotti) Gustavo Maldonado Saffiotti  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://www.linkedin.com/in/gustavo-maldonado-saffiotti)  
 [GitHub Profile](https://github.com/Gustavo-Saffiotti)
 
 Feel free to open an issue or pull request for suggestions or improvements.
