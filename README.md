@@ -2,12 +2,13 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Data](#data)
-3. [Libraries Used](#libraries-used)
-4. [Evaluation Metrics](#evaluation-metrics)
-5. [Example Results](#example-results)
-6. [Future Improvements](#future-improvements)
-7. [Author](#author)
+2. [Project Notebook](#Project-Notebook)
+3. [Data](#data)
+4. [Libraries Used](#libraries-used)
+5. [Evaluation Metrics](#evaluation-metrics)
+6. [Example Results](#example-results)
+7. [Future Improvements](#future-improvements)
+8. [Author](#author)
 
 ## Project Overview
 
