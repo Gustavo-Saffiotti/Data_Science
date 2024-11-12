@@ -1,5 +1,16 @@
 # Vehicle Price Prediction using Machine Learning
 
+### Key Sections:
+1. **Project Overview**: Brief summary of what the project is about.
+2. **Data**: Explains where the data is from and its key features.
+3. **Libraries Used**: Lists the main libraries used.
+5. **Project Structure**: Explains the file and folder structure of the project.
+7. **Evaluation Metrics**: Explanation of the metrics used to evaluate the model.
+8. **Example Results**: A snapshot of the model's performance.
+9. **Future Improvements**: Possible directions for future work.
+11. **Acknowledgements**: Acknowledgement of data sources, tools, etc.
+12. **Author**: Your personal details or GitHub link.
+
 ## Project Overview
 
 This project aims to build a machine learning model to predict the average price of vehicles based on various features such as engine size, fuel type, brand, and other vehicle characteristics. The model can be applied to predict the price of a vehicle, which could potentially be used in applications like insurance pricing and market analysis.
