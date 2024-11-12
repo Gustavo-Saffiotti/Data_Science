@@ -1,11 +1,19 @@
-
 # Vehicle Price Prediction using Machine Learning
+
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Data](#data)
+3. [Libraries Used](#libraries-used)
+4. [Evaluation Metrics](#evaluation-metrics)
+5. [Example Results](#example-results)
+6. [Future Improvements](#future-improvements)
+7. [Author](#author)
 
 ## Project Overview
 
 This project aims to build a machine learning model to predict the average price of vehicles based on various features such as engine size, fuel type, brand, and other vehicle characteristics. The model can be applied to predict the price of a vehicle, which could potentially be used in applications like insurance pricing and market analysis.
 
-Key Features of the Project:
+### Key Features of the Project:
 - **Dataset Acquisition**: The data is sourced from FIPE (Fundação Instituto de Pesquisas Econômicas), a prominent vehicle price reference in Brazil.
 - **Data Preprocessing**: Cleaning and transforming the dataset to handle missing values, categorical encoding, and feature scaling.
 - **Feature Engineering**: Creating new features like vehicle age and transforming existing ones for improved model performance.
@@ -13,9 +21,8 @@ Key Features of the Project:
 - **Hyperparameter Tuning**: Using **RandomizedSearchCV** for efficient model optimization.
 - **Model Evaluation**: Assessing model performance using metrics such as MAE, MSE, RMSE, and R².
 - **Exploratory Data Analysis (EDA)**: Visualizing data distributions and correlations to understand patterns.
+
 ![EDA Example](Images/Heatmap.png)
-
-
 
 ## Data
 
@@ -61,8 +68,6 @@ After training the model on the dataset, the following results were obtained:
 
 ![Model Result](Images/Result.png)
 
-
-
 These metrics suggest that the model is performing well with a high degree of accuracy in predicting car prices.
 
 ## Future Improvements
@@ -75,8 +80,7 @@ Some possible areas for future work include:
 
 ## Author
 
-- [GitHub Profile](https://github.com/Gustavo-Saffiotti)
-
-- [Linkedin Profile](www.linkedin.com/in/gustavo-maldonado-saffiotti)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://www.linkedin.com/in/gustavo-maldonado-saffiotti) Gustavo Maldonado Saffiotti  
+[GitHub Profile](https://github.com/Gustavo-Saffiotti)
 
 Feel free to open an issue or pull request for suggestions or improvements.
